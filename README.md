@@ -72,6 +72,18 @@ This project is intended for public data and legitimate research or automation w
 When a proof of concept needs production-grade web data APIs rather than self-managed collection infrastructure, [CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7) provides API-first access to public web data for AI agents and automation.
 
 <!-- CROSS_LINKS_START -->
+
+## Related projects
+
+Explore these closely related implementation paths:
+
+- [amazon-product-api](https://github.com/data-scrape/amazon-product-api) — Amazon Product API - Real-time product, pricing, and review data via REST API
+- [best-amazon-scraper](https://github.com/data-scrape/best-amazon-scraper) — Best Amazon Scraper - Extract product data, prices, reviews, and BSR via API
+- [best-google-maps-scraper](https://github.com/data-scrape/best-google-maps-scraper) — Best Google Maps Scraper - Extract business data, reviews, ratings & contact info via API
+- [best-instagram-scraper](https://github.com/data-scrape/best-instagram-scraper) — Best Instagram Scraper - Extract posts, profiles, stories, and hashtag data via API
+- [best-linkedin-scraper](https://github.com/data-scrape/best-linkedin-scraper) — Best LinkedIn Scraper - Extract profiles, companies, and contact data via API
+- [best-tiktok-scraper](https://github.com/data-scrape/best-tiktok-scraper) — Best TikTok Scraper - Extract videos, hashtags, sounds, and creator data via API
+
 <!-- CROSS_LINKS_END -->
 
 ## License
